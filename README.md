@@ -1,7 +1,8 @@
 # bdclinic
 # BD Clinic - Dental Practice Management System
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/e1459bc3-a569-43ad-ad9c-bce7b560cb23)
+)
 
 BD Clinic is a comprehensive dental practice management system designed to streamline clinic operations, patient management, and appointment scheduling for dental professionals.
 
@@ -43,5 +44,6 @@ BD Clinic is a comprehensive dental practice management system designed to strea
 ![image](https://github.com/user-attachments/assets/3e869b84-bc16-4e82-8326-9ceae046520f)
 ![image](https://github.com/user-attachments/assets/e8cbd692-92ac-45ec-a915-519b58b99dc4)
 ![image](https://github.com/user-attachments/assets/fe7903ab-74e6-4693-9602-3f757329aed7)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/57a7dc22-21f2-473d-ae9b-ab55f71e9402)
+
 
